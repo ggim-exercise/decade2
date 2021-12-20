@@ -27,4 +27,4 @@ Each presenter will kindly provide us the following points:
 2. PRESENTER, Aoyama Gakuin University: TITLE (30 minutes including questions and answers)
 
 ## How to register
-Please register to the **Geospatial Capacity Development Conference on GNSS applications and DRR** (still confirming) because this workshop is a part of the conference. 
+Please register to the **Geospatial Capacity Development Conference on GNSS applications and DRR** (registration process still confirming) because this workshop is a part of the conference. 
