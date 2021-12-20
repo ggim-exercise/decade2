@@ -12,7 +12,7 @@ Virtual meeting
 ## Concept note
 [Task Group B](https://ggim-exercise.github.io) of the Working Group on Geospatial Information and Services for Disasters (WG-Disasters) under the [United Nations Committee of Experts on Global Geospatial Information Management](https://ggim.un.org) has been [working online](https://github.com/ggim-exercise) for a practical UN geospatial cooperation for the aim of the WG-Disasters. 
 
-Although we have various operation-oriented participants, we still have no single scenario we can work together. We believe it is partly because we still need to develop flexibility to find a common ground we can combine efforts. 
+Although we have various operation-oriented participants, we still have no single scenario we can work together. We believe it is partly because we still need to develop flexibility to find a common ground where we can combine efforts in the actual fields. 
 
 From this perspective, we are having 2-hour online session with presentations by international humanitarian charity and academia who kindly bring their scenario and cases. 
 
