@@ -1,3 +1,5 @@
+# Workshop on Geospatial DRR for Decade of Action (Day 2)
+
 ## Date
 2022-01-19T13:00/15:00+09:00
 
