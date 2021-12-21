@@ -1,4 +1,4 @@
-# Workshop on Geospatial DRR for Decade of Action (Day 2)
+# Workshop on Geospatial DRR for Decade of Action (Day 2) - UN-GGIM WG-Disasters TG-B meeting
 
 ## Date
 2022-01-19T13:00/14:30+09:00 (might be extended to 15:00 if necessary)
