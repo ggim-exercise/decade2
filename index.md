@@ -31,4 +31,4 @@ Each presenter will kindly provide us the following points:
 2. Taichi Furuhashi et al. (Aoyama Gakuin University): UNVT Community in operation (30 minutes including questions and answers)
 
 ## How to register
-Please register to the **Geospatial Capacity Development Conference on GNSS applications and DRR** (registration process still confirming) because this workshop is a part of the conference. 
+Please register to the [Geospatial Capacity Development Conference on GNSS applications and DRR](https://gcdc.gsi.go.jp/) because this workshop is a part of the conference. 
