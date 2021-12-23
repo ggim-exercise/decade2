@@ -27,8 +27,8 @@ Each presenter will kindly provide us the following points:
 3. Examples of actions already taken
 
 ## Agenda
-1. PRESENTER, MapAction: TITLE (30 minutes including questions and answers)
-2. PRESENTER, Aoyama Gakuin University: TITLE (30 minutes including questions and answers)
+1. Alan Mills (MapAction): Geospatial Service Requirements for Effective Humanitarian Response (30 minutes including questions and answers)
+2. Taichi Furuhashi et al. (Aoyama Gakuin University): UNVT Community in operation (30 minutes including questions and answers)
 
 ## How to register
 Please register to the **Geospatial Capacity Development Conference on GNSS applications and DRR** (registration process still confirming) because this workshop is a part of the conference. 
