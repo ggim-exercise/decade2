@@ -27,8 +27,8 @@ Each presenter will kindly provide us the following points:
 3. Examples of actions already taken
 
 ## Agenda
-1. Alan Mills (MapAction): Geospatial Service Requirements for Effective Humanitarian Response (30 minutes including questions and answers)
-2. Taichi Furuhashi et al. (Aoyama Gakuin University): UNVT Community in operation (30 minutes including questions and answers)
+1. Alan Mills (MapAction): Geospatial Service Requirements for Effective Humanitarian Response
+2. Taichi Furuhashi, Kuniharu Higano, Kohki Kikuchi, Shogo Hirasawa (Aoyama Gakuin University): UNVT Community in operation
 
 ## How to register
 Please [register](https://forms.office.com/Pages/ResponsePage.aspx?id=kGq5b_J16EOKJ2ssZv6B-pJPl4fbgPlHljq6IJ9md9tUMlpPRkFHMEFJOURFTVhHNEtZOVZLWVA0UiQlQCN0PWcu) for the [Geospatial Capacity Development Conference on GNSS applications and DRR](https://gcdc.gsi.go.jp/) because this workshop is a part of the conference. 
